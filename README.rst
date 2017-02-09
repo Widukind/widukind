@@ -1,7 +1,7 @@
 Widukind Projects Issues
 ========================
 
-**All issues for Widukind projects**
+**All issues for Widukind projects have been moved to [Data.nomics.world forum](https://forum.data.nomics.world/)**
 
 - `dlstats`_ - Statistics Downloader
 - `widukind-web`_ - Web Site
